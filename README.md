@@ -7,3 +7,5 @@ Depending on your screen you have to calibrate it and modify the values in the c
 For installation run sudo apt-get update, then sudo apt-get install xserver-xorg-input-evdev
 
 Copy the 98-calibration.conf to /usr/share/X11/xorg.conf.d and reboot the RPi, done!
+
+For a good virtual keyboard run sudo apt-get install at-spi2-core florence and reboot the RPi.
