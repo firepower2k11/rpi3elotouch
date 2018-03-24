@@ -1,4 +1,4 @@
-# elotouchxorg
+# rpi3elotouch
 ## Elo Touchscreen on RPi
 
 After fiddling around for some hours I finally found a solution to get the Elo Touchscreen working correctly on my Raspberry Pi 3.
